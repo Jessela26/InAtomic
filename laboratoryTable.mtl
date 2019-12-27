@@ -1,0 +1,22 @@
+# Blender MTL File: 'laboratoryTable.blend'
+# Material Count: 2
+
+newmtl TableLegs
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.423268 0.212231 0.116971
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl TableTop
+Ns 169.000003
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.883333 0.883333 0.883333
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
